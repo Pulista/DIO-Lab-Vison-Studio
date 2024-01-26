@@ -9,5 +9,4 @@ A inteligência artificial, está revolucionando a vida das pessoas com deficiê
 Além disso, a IA também está sendo aplicada em dispositivos portáteis, como óculos inteligentes, que podem descrever o ambiente ao redor e até mesmo reconhecer objetos, cores e pessoas, proporcionando uma experiência mais rica e independente. Com o uso criativo da IA, as barreiras para as pessoas com deficiência visual estão sendo superadas, permitindo que elas participem mais plenamente da sociedade digital.
 
 ---
-
-![Captura de tela1](C:\Users\rdg41\Downloads)
+![Captura de tela1](https://github.com/Pulista/DIO-Lab-Vison-Studio/assets/84294260/c223378c-d88a-46dc-ac13-9bcb59338c9a)

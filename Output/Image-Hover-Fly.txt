@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "8273b5ed-c903-4320-8c8d-91cda3045bd8",
+  "content-length": "151",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a bee on a purple flower",
+    "confidence": 0.909415066242218
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 853
+  }
+}
